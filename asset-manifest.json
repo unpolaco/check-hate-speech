@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/check-hate-speech/static/js/main.abe18d80.js",
+    "index.html": "/check-hate-speech/index.html",
+    "main.abe18d80.js.map": "/check-hate-speech/static/js/main.abe18d80.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.abe18d80.js"
+  ]
+}
